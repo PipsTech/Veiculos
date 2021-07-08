@@ -25,3 +25,4 @@ b) Saber a quilometragem total percorrida por um veículo.<br />
 c) Realizar as manutenções de um veículo tão cedo quanto forem necessárias.<br /> 
 d) Calcular a despesa total de um veículo, considerando combustível e manutenções.<br /> 
 Implemente este sistema seguindo o diagrama de classes em anexo.
+![enter image description here](ClassDiagram/imagem_2021-07-08_204239.png)
